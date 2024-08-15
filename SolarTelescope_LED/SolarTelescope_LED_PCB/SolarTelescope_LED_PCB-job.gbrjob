@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.3"
     },
-    "CreationDate": "2024-07-16T13:50:52-06:00"
+    "CreationDate": "2024-08-15T08:53:42-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "SolarTelescope_LED_PCB",
       "GUID": "536f6c61-7254-4656-9c65-73636f70655f",
-      "Revision": "1.0"
+      "Revision": "2.0"
     },
     "Size": {
       "X": 152.45,
